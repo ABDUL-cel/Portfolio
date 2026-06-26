@@ -1,6 +1,6 @@
-this is my Frontend Developer portfolio site.
+This is my Frontend Developer portfolio site.
 
-**Live site:** https//abdul-cel.github.io
+**Live site:** https://abdul-cel.github.io
 
 I'm a Frontend Developer from Ilorin, Nigeria focused on buliding clear, fast and moble-friendly websites using HTML & CSS.
 
